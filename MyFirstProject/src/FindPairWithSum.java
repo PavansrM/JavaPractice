@@ -1,4 +1,4 @@
-public class intarray {
+public class FindPairWithSum  {
     public static void main(String[] args) {
         int[] array = { 1, 2, 3, 4, 5, 6, 8 };
         int targetSum = 7;
